@@ -1,7 +1,7 @@
 - 👋 Hi, my name's Begdiyar
 - 🐍 I code in Python
 - 🎯 I’m keen on Data science
-- 📊 I’m currently learning Data Analyst (especially pandas, numpy, seaborn, matplotlib, SQL), 
+- 📊 I’m currently learning Data analyst (especially pandas, numpy, seaborn, matplotlib, SQL), 
 - also I'm engaged in ML
 - ⚙️ In my repositoris collection you can meet some programs about analytics and neural networks
 
